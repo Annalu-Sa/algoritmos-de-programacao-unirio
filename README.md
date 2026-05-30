@@ -1,4 +1,4 @@
-# algoritmos-de-programacao-unirio
+# Algoritmos de Programacao UNIRIO
 Exercícios resolvidos da disciplina de Algoritmos de Programação da Unirio, em C. Atualizado conforme avanço nos módulos.
 
 ## 📚 Módulos
