@@ -9,9 +9,13 @@ Memória é dividida em células, cada célula é identificada por um endereço.
 | 01011001 | 10111010 | 11000101 | 00011010 |(...etc)|
 |--------|--------|--------|--------|--------|
 | 0 | 1 | 2 | 3 |(...etc)|
-
+- Se eu quiser armazenar números decimais na célula 01011001 (de índice "0"), então, em decimal, teremos '89'.
+- Se eu quiser armazenar letras ou símbolos na célula  10111010 (de índice "2"), então, em ASCII, teremos '║' (traço duplo).
 
 ## Tipos e Variáveis
+O que eram aqueles '0's e '1's das células de memória?
+**Variável!**
+- Uma variável é uma localização de memória na qual armazenamos um dado qualquer.
 ## Atribuição e Literal
 ## Conversão de tipos
 ## Operadores
