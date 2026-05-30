@@ -6,9 +6,9 @@ Também conhecida como memória RAM, é componente do computador responsável po
 
 Memória é dividida em células, cada célula é identificada por um endereço.
 ### Memória principal em células:
-| 01011001 | 10111010 | 11000101 |(...etc)
-|--------|--------|--------|
-| 0 | 1 | 2 |(...etc)
+| 01011001 | 10111010 | 11000101 |(...etc)|
+|--------|--------|--------|--------|
+| 0 | 1 | 2 |(...etc)|
 
 
 ## Tipos e Variáveis
