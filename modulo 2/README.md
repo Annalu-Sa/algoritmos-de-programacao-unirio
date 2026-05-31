@@ -134,3 +134,19 @@ Operadores aritméticos importantes:
 - %: resto de divisão
 - -: complemento
 ## Entrada e Saída de dados
+Os comandos printf e scanf são os principais para imprimir e ler dados em C
+- printf = impressão formatada -> "printf("<especificador>", <nome da variável>);"
+- scanf = varredura formatada-> "scanf(<especificador>, &<nome da variável>);"
+
+**Formato simples de um especificador: %[tipo]
+Exemplos mais importantes:**
+- %d = inteiro (formato decimal)
+- %u = inteiro (sem sinal)
+- %ld = inteiro (long)
+- %lld = inteiro (long long)
+- %f = ponto flutuante (float)
+- %lf = ponto flutuante (double) -> para printar double use "%f"
+- %Lf = ponto flutuante (long double)
+- %e = float/double notação científica
+- %c = caracter
+%s = string
