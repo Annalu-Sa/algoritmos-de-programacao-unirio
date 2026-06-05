@@ -11,9 +11,9 @@ Exercícios resolvidos da disciplina de Algoritmos de Programação da Unirio, e
 | 04 | Laços | ✅ | ⭐ |
 | 05 | Vetores, matrizes e ponteiros | ✅ | ⭐⭐ |
 | 06 | Caracteres e strings | ✅ | ⭐⭐ |
-| 07 | Funções | ✅ | ⭐⭐⭐ |
-| 08 | Structs | ✅ | ⭐⭐⭐ |
-| 09 | Busca e Ordenação | - | - |
+| 07 | Funções | ✅ | ⭐⭐⭐⭐ |
+| 08 | Structs | ✅ | ⭐⭐⭐⭐ |
+| 09 | Busca e Ordenação | ✅ | ⭐⭐⭐⭐ |
 | 10 | Recursão | - | - |
 | 11 |  Representação binária | - | - |
 | 12 | Ponto flutuante | - | - |
