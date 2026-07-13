@@ -1,6 +1,6 @@
 # 1° Prova - 13/05/26
 ## Questão 1
-
+Escreva um programa que lê um número inteiro positivo e imprime quantos dígitos iguais a 0 este número possui. Seu programa não pode usar comandos de bibliotecas, exceto **stdio**.
 ## Questão 2
 Em um polígono qualquer de n lados, a soma dos ângulos interiores é sempre igual a (n-2) × 180°. Este é um resultado milenar, originário da obra Elementos, do matemático grego Euclides. 
 Escreva um programa que lê um número inteiro, calcula e imprime, com 5 casas de precisão, o valor dos ângulos interiores de um polígono regular de n lados. (Um polígono regular possui todos os lados iguais.)
